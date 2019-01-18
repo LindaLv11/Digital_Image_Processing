@@ -1,5 +1,5 @@
 # Digital_Image_Processing
-Digital Image Processing Algorithms in C ++
+Digital Image Processing Algorithms in C++
 
 Edge_detection
 
