@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1369832240 source:e:\courses\2014-01Êı×ÖÍ¼Ïñ´¦Àí-ÊıÑ§Ïµ\cÍ¼Ïñ¶ÁĞ´final\image\main.cpp
+	<stdio.h>
+	"BmpRot.h"
+	"stdlib.h"
+	"math.h"
+	<iostream>
+
+1369829852 e:\courses\2014-01Êı×ÖÍ¼Ïñ´¦Àí-ÊıÑ§Ïµ\cÍ¼Ïñ¶ÁĞ´final\image\bmprot.h
+
+1493117052 source:c:\users\ÂÀ°ØÈØ\desktop\cÍ¼Ïñ¶ÁĞ´final\cÍ¼Ïñ¶ÁĞ´final\image\hough.cpp
+	<stdio.h>
+	"BmpRot.h"
+	"stdlib.h"
+	"math.h"
+	<iostream>
+	<string>
+
+1369829852 c:\users\ÂÀ°ØÈØ\desktop\cÍ¼Ïñ¶ÁĞ´final\cÍ¼Ïñ¶ÁĞ´final\image\bmprot.h
+
