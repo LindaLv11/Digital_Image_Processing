@@ -10,6 +10,7 @@ hough
 Optimum Global Thresholding Using Otsu’s Method
 
 RTV:
+
 ![Alt text](rtv.png)
 
 Smoothing_Spatial_Filter
