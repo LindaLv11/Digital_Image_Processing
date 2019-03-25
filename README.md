@@ -7,6 +7,7 @@ Edge_detection
 Histogram_Equalization
 
 hough
+
 ![The image should be here](result.bmp)
 
 Optimum Global Thresholding Using Otsu’s Method
