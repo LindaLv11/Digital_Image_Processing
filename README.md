@@ -1,5 +1,6 @@
 # Digital_Image_Processing
-Digital Image Processing Algorithms in C++
+Digital Image Processing Algorithms Implemented in C++ by Borong Lyu
+                                                                 -----2017
 
 Edge_detection
 
