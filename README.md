@@ -19,3 +19,5 @@ Smoothing_Spatial_Filter
 Median filter
 
 Region Growing
+
+![The image should be here](lena512.bmp)
